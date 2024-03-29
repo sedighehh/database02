@@ -31,4 +31,14 @@ UNIQUE(Student_ID)
 
 
 -- Insert Data In Table
---
+INSERT INTO Students VALUES
+(1, 'zahra', 'rezaei', 28),
+(2, 'marziyeh', 'rezaei', 58),
+(3, 'amin', 'modanloo', 46),
+(4, 'hossein', 'abazari', 55)
+(5, 'mahdi', 'zolfaghari',50)
+(6, 'fatemeh', 'safadoost', 49)
+(7, 'elmira', 'hajji', 51),
+(8, 'hiva', 'yarandi', 80),
+(9, 'amir', 'jamshid', 32),
+(10, 'mojtaba', 'karimi', 56);
